@@ -1,7 +1,7 @@
-#Thu Oct 13 18:37:05 IST 2016
-base.0=/Users/diraj/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_466657fcbc837c76795cec06c1fa5d67dead005e
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/Users/diraj/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3c6667eeb54fe620b766bb0e804376e1fee1c45b/classes.dex
-base.1=/Users/diraj/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3c6667eeb54fe620b766bb0e804376e1fee1c45b
-file.0=/Users/diraj/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_466657fcbc837c76795cec06c1fa5d67dead005e/classes.dex
+#Thu Oct 13 20:28:13 IST 2016
+base.0=/Users/diraj/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3c6667eeb54fe620b766bb0e804376e1fee1c45b
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/diraj/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_466657fcbc837c76795cec06c1fa5d67dead005e/classes.dex
+base.1=/Users/diraj/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_466657fcbc837c76795cec06c1fa5d67dead005e
+file.0=/Users/diraj/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3c6667eeb54fe620b766bb0e804376e1fee1c45b/classes.dex
