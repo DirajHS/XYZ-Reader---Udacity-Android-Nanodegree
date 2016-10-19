@@ -17,7 +17,7 @@ Transformed the user experience of a news reading app using Material Design prin
 
 MIT License
 
-Copyright (c) 2016 DirajHS
+Copyright (c) 2016 Diraj H S
 <p align="justify">
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
